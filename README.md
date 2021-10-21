@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jonathan.videira@gmail.com**
 
-- 📄 Know about my experiences [jonathan-resume.pdf](http:github.com/ajvideira/ajvideira/jonathan-resume.pdf)
+- 📄 Know about my experiences [jonathan-resume.pdf](.github/jonathan-resume.pdf)
 
 - ⚡ Fun fact **I want you to challenge me on FIFA.**
 
