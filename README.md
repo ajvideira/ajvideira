@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan Videira</h1>
-<h3 align="center">I'm a software engineer at Procempa. I love web development and I'm always learning new technologies to better resolve the problems that are presented to me.</h3>
+
+<h3 align="center">I'm a software engineer at Procempa - Porto Alegre/Brazil. I love web development and I'm always learning new technologies to better resolve the problems that are presented to me.</h3>
+
+<img style="margin: 0 auto" src=".github/images/coding.gif" alt="Coding" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajvideira&label=Profile%20views&color=0e75b6&style=flat" alt="ajvideira" /> </p>
 
@@ -153,5 +156,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajvideira&" alt="Streak" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvideira&langs_count=10&layout=compact" width="62.5%" alt="Most used languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvideira&langs_count=10&layout=compact" alt="Most used languages" />
 </p>
