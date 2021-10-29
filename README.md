@@ -1,21 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan Videira</h1>
 
 <h3 align="center">I'm a software engineer at Procempa - Porto Alegre/Brazil. I love web development and I'm always learning new technologies to better resolve the problems that are presented to me.</h3>
-
-<img style="margin: 0 auto" src=".github/images/coding.gif" alt="Coding" />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajvideira&label=Profile%20views&color=0e75b6&style=flat" alt="ajvideira" /> </p>
-
-- 🌱 I’m currently learning **Cloud and Microservices**
-
-- 📫 How to reach me **jonathan.videira@gmail.com**
-
-- 📄 Know about my experiences [jonathan-resume.pdf](https://github.com/ajvideira/ajvideira/raw/master/.github/jonathan-resume.pdf)
-
-- ⚡ Fun fact: **I'm a great FIFA player. Challenge me any time on PSN @ajvideira.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br />
+<p align="center">
   <a href="https://linkedin.com/in/jonathan-alba-videira" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" />
   </a>
@@ -28,13 +15,33 @@
   <a href="https://instagram.com/ajvideira" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" width="40" />
   </a>
-  
   <a href="https://discord.gg/ajvideira" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" />
   </a>
 </p>
+<br />
+<p align="center">
+   
+  <a href="https://github.com/ajvideira?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ajvideira"/></a>
+  <a href="https://github.com/ajvideira?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ajvideira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<h3 align="left">Languages</h3>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajvideira&label=Profile%20views&color=0e75b6&style=flat" alt="ajvideira" /> </p>
+
+- 🌱 I’m currently learning **Cloud and Microservices**
+
+- 📫 How to reach me **jonathan.videira@gmail.com**
+
+- 📄 Know about my experiences [jonathan-resume.pdf](https://github.com/ajvideira/ajvideira/raw/master/.github/jonathan-resume.pdf)
+
+- ⚡ Fun fact: **I'm a great FIFA player. Challenge me any time on PSN @ajvideira.**
+
+## 🛠️ My favorite tools
+
+### Languages
+
 <p>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/> 
@@ -145,16 +152,22 @@
   </a>         
 </p>
 
-<p align="left"> 
+## 📊 Github stats
+
+<br />
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajvideira&column=7&theme=onedark" alt="ajvideira" />
   </a> 
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajvideira&show_icons=true&locale=en" alt="Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajvideira&show_icons=true&locale=en" alt="Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajvideira&" alt="Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajvideira&" alt="Streak" />
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvideira&langs_count=10&layout=compact" alt="Most used languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvideira&langs_count=10&layout=compact" alt="Most used languages" />
+  <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=5177402)
