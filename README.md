@@ -38,7 +38,7 @@
 
 - ⚡ Fun fact: **I'm a great FIFA player. Challenge me any time on PSN @ajvideira.**
 
-## 🛠️ My favorite tools
+## 🛠️ My favorite technologies
 
 ### Languages
 
