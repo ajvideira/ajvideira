@@ -77,6 +77,9 @@
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" height="40"/> 
   </a>
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" height="40"/> 
+  </a>
   <a href="https://angular.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="40"/> 
   </a>
