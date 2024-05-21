@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Videira</h1>
 
-<h3 align="center">I'm a teadh lead at Procempa - Porto Alegre/Brazil. I love web development and I'm always learning new technologies to better resolve the problems that are presented to me.</h3>
+<h3 align="center">I'm a tech lead at Procempa - Porto Alegre/Brazil. I love web development and I'm always learning new technologies to better resolve the problems that are presented to me.</h3>
 <br />
 <p align="center">
   <a href="https://linkedin.com/in/jonathan-alba-videira" target="blank">
@@ -16,7 +16,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" width="40" />
   </a>
   <a href="https://discord.gg/ajvideira" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" height="40" />
   </a>
 </p>
 <br />
